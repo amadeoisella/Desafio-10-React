@@ -30,7 +30,12 @@ The website is a SPA (Single Page Application) with:
 
 ---
 
-![React-App](https://user-images.githubusercontent.com/76953602/147995007-98208314-7924-439a-baa3-a8ca0a6e9e9f.gif)
+Puedes ver un video de demostración a continuación:
+
+[![Video de demostración](https://via.placeholder.com/600x400.png?text=Video+de+Demostraci%C3%B3n)](https://www.loom.com/embed/c53f9cf29d5f4ed29eb29fc9cc85d6a4?sid=9a303e0a-fdaf-4d19-9cb1-0ae246dd30d5)
+
+> Haz clic en la imagen para ver el video.
+
 
 Author:
 
